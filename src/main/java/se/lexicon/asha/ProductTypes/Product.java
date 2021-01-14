@@ -30,6 +30,7 @@ public abstract class Product {
     abstract java.lang.String examine();
 
 
+    abstract void use();
 }
 
 
