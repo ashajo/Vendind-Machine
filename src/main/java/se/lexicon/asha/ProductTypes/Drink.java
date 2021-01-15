@@ -1,7 +1,5 @@
 package se.lexicon.asha.ProductTypes;
 
-import java.util.Objects;
-
 public class Drink extends Product {
     private String volume;
     public Drink(java.lang.String name, int price, String volume) {
